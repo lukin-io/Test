@@ -1,0 +1,5 @@
+first line for file.txt in 'test' branch.
+second line for file.txt in 'test' branch.
+third line for file.txt in 'test' branch.
+fourth line for file.txt in 'test' branch.
+fifth line for file.txt in 'test' branch.
